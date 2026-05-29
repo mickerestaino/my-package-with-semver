@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-29)
+
+### Features
+
+- Introduce a breaking change
+  ([`661bc65`](https://github.com/mickerestaino/my-package-with-semver/commit/661bc65c43a71e03591ce52914c456275c1e182c))
+
+
 ## v1.1.0 (2026-05-29)
 
 ### Bug Fixes
