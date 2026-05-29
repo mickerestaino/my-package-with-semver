@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-29)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`9b7252f`](https://github.com/mickerestaino/my-package-with-semver/commit/9b7252f14910df16a8627b4f9092422a495683a7))
+
+
 ## v2.0.0 (2026-05-29)
 
 ### Features
